@@ -4,7 +4,7 @@ This repository contains code for emotion detection using Convolutional Neural N
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - TensorFlow
 - OpenCV
 - NumPy
